@@ -9,19 +9,18 @@ public class PureTitan extends Titan {
 		this.TITAN_CODE=1;
 		}
 
-	@Override
+	
 	public int compareTo(Titan o) {
 		// TODO Auto-generated method stub
 		return super.compareTo(o);
 	}
 
-	@Override
 	public int getBaseHealth() {
 		// TODO Auto-generated method stub
 		return super.getBaseHealth();
 	}
 
-	@Override
+	
 	public int getCurrentHealth() {
 		// TODO Auto-generated method stub
 		return super.getCurrentHealth();
